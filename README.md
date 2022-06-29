@@ -65,5 +65,5 @@ Simsimi > 당신이 만든 사람이에요.
 ## Colab tutorials
 
 - PyTorch
-  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/shk36/Chatbots/blob/1ca983754551dffa35aba78c4db08733900ecfd8/KoGPT2_chatbot_pytorch.ipynb)
+  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shk36/Chatbots/blob/master/KoGPT2_chatbot_pytorch.ipynb)
 
